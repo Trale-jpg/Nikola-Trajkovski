@@ -32,7 +32,7 @@ Throughout my course at Yandex Praktikum, I gained an in-depth understanding of 
 
 * ### Education :notebook:
 * [Yandex Praktikum](https://practicum.yandex.ru/)
-* [My Diploma](https://photos.app.goo.gl/k8ywdtJXkvXtK92S6)
+* [My Diploma](https://drive.google.com/file/d/1nsovYW41joL-Re_sj-gAGmFk6yzTHpa8/view?usp=sharing)
 
 ### Tools :wrench:
 * [Postman](https://www.postman.com/) - API testing
@@ -45,5 +45,24 @@ Throughout my course at Yandex Praktikum, I gained an in-depth understanding of 
 * [Qase](https://qase.io/) - test management
 * Android Visual Studio (Iguana) - mobile app testing
 
-
+### Tech skills :computer:
+* Rest API testing
+* Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+* Creating test cases
+* Reporting bugs
+* Creating bug reports
+* Basic Python - for test automation
+* Basic HTML and CSS
+* Creating documentation
+* Performing smoke tests
+* Performing regression testing
+* Performing cross broswer testing
+* Mobile Android app testing
+* Software testing
  
+### Soft skills :file_folder:
+* Communication Skills
+* Teamwork and Collaboration
+* Problem-Solving Skills
+* Adaptability
+* Time Management
