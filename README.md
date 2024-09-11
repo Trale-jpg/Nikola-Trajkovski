@@ -1,1 +1,1 @@
-# Nikola-Trajkovski
+Hello, I'm Nikola. I have been training and studying to become a QA since the beginning of 2023. I'm glad I've at last discovered a field where I can grow and succeed. I want to share my QA knowledge and highlight my practical abilities from my work, classes, and independent research in this portfolio. I'm committed to developing further in this area. 
